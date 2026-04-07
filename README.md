@@ -46,6 +46,7 @@ Developing interpretable and reliable AI models that ensure fairness across popu
 - 🔗 LinkedIn: https://www.linkedin.com/in/farnaz-rezvani/
 - 📊 Google Scholar: https://scholar.google.co.uk/citations?hl=en&user=kDEKL-8AAAAJ
 - 💻 GitHub: https://github.com/FarnazRezvani
+- 📄 CV: https://raw.githubusercontent.com/FarnazRezvani/FarnazRezvani/main/Documents/CV_Farnaz_April_2026.pdf
 
 ---
 
