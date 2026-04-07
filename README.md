@@ -50,4 +50,5 @@ Developing interpretable and reliable AI models that ensure fairness across popu
 ---
 
 ## Contact
-📧 f.rezvani@ieee.org
+📧 Email: f.rezvani@ieee.org  
+
