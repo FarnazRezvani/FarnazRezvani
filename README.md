@@ -43,11 +43,11 @@ Developing interpretable and reliable AI models that ensure fairness across popu
 ---
 
 ## Links
--  LinkedIn: https://www.linkedin.com/in/farnaz-rezvani/
--  Google Scholar: https://scholar.google.co.uk/citations?hl=en&user=kDEKL-8AAAAJ
--  GitHub: https://github.com/FarnazRezvani
--  CV: https://github.com/FarnazRezvani/FarnazRezvani/blob/main/Documents/CV_Farnaz_April_2026.pdf
--  Recommend Letter: https://github.com/FarnazRezvani/FarnazRezvani/blob/main/Recommend Letter/Farnaz Rezvani_Recommendation Letter_PhD Application.pdf
+- **[LinkedIn](https://www.linkedin.com/in/farnaz-rezvani/)** — Farnaz Rezvani
+- **[Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=kDEKL-8AAAAJ)** — Publications and citations
+- **[GitHub](https://github.com/FarnazRezvani)** — Projects and repositories
+- **[CV](https://github.com/FarnazRezvani/FarnazRezvani/blob/main/Documents/CV_Farnaz_April_2026.pdf)** — Academic CV
+- **[Recommendation Letter](https://github.com/FarnazRezvani/FarnazRezvani/blob/main/Recommend%20Letter/Farnaz%20Rezvani_Recommendation%20Letter_PhD%20Application.pdf)** — Reference for PhD application
 
 ---
 
